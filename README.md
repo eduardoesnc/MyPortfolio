@@ -1,2 +1,2 @@
 # MyPortfolio
-Modelo de portfólio criado com React Native.
+Modelo de portfólio criado com React Native e Firebase.
